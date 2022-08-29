@@ -1,7 +1,7 @@
 # CS550-MRI-aliasing-artifact-correction-via-ANNs
 The term project for CS550: Machine Learning course in Bilkent University
 
-An implementation and analysis of several deep learning methods' performances in aliasing artifact correction and image reconstruction of undersampled MRI images  
+Implementation and analysis of several deep learning methods' performances in aliasing artifact correction and image reconstruction of undersampled MRI images  
 
 Authors:
 - Beril Alyuz
